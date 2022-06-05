@@ -7,4 +7,4 @@ def f(a,b):
 
 print(f(1,b))
 print (f(2,b))
- 
+print ()
