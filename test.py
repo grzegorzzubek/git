@@ -6,4 +6,5 @@ def f(a,b):
     return b
 
 print(f(1,b))
+print (f(2,b))
  
